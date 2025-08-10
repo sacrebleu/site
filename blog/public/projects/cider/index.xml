@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cider on Adventures in SRE</title>
+    <link>blog/projects/cider/</link>
+    <description>Recent content in Cider on Adventures in SRE</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <atom:link href="blog/projects/cider/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics of Cider Making</title>
+      <link>blog/projects/cider/cider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>blog/projects/cider/cider/</guid>
+      <description>&lt;h4 id=&#34;basics-of-cider-making&#34;&gt;&#xA;  Basics of Cider Making&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#basics-of-cider-making&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;There are several stages&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Preparation&lt;/li&gt;&#xA;&lt;li&gt;Primary fermentation&lt;/li&gt;&#xA;&lt;li&gt;Bottling and secondary fermentation&lt;/li&gt;&#xA;&lt;li&gt;Clarifying&lt;/li&gt;&#xA;&lt;li&gt;Consumption&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Of these steps, 1. and 2. are probably the most critical, as they present the biggest risk of contamination or&#xA;catastrophe.&lt;/p&gt;&#xA;&lt;p&gt;I decided that as romantic as the idea of collecting and crushing apples might sound, the reality would likely be hot&#xA;and monotonous. Instead, I will&#xA;be purchasing 5l of organic apple juice from one of Kent&amp;rsquo;s many orchards and using that as my stock. There is a list of&#xA;things that are required for a basic&#xA;home-brewing setup, most of which are detailed below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bottling</title>
+      <link>blog/projects/cider/bottling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>blog/projects/cider/bottling/</guid>
+      <description>&lt;p&gt;rah rah bubble blah&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rudimentary Control System</title>
+      <link>blog/projects/cider/control-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>blog/projects/cider/control-system/</guid>
+      <description>&lt;h4 id=&#34;a-rudimentary-control-system-for-home-brewing&#34;&gt;&#xA;  A rudimentary control-system for home brewing&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#a-rudimentary-control-system-for-home-brewing&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;When I brewed beer some fifteen or more years ago, I was working with far more rudimentary tools than are available now.  Microcontrolers were strange things that ran custom code (if anything) and their utility&#xA;was obscure to a luddite like me.  I have some basic electronics knowledge but still don&amp;rsquo;t really understand things like op-amps and the other modern&#xA;paraphernalia of the trade, so anything I did would be pretty limited.   Therefore, I resorted to analogue methods and regulated the temperature of my wort by running water through it using an aquarium pump and some PVC tubing.&#xA;Crude but effective.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,5 +1,6 @@
 ---
 title: "Basics of Cider Making"
+pageweight: 1
 ---
 
 #### Basics of Cider Making

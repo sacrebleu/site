@@ -53,7 +53,7 @@ and an amusing time during which I tried to decode the pins of the RGB LED with 
 
 Ultimately, though, I had a working circuit, and the software to drive it.  With the help of the excellent [Pico W Pinout diagram](https://datasheets.raspberrypi.com/picow/PicoW-A4-Pinout.pdf) I did some soldering and managed not to destroy anything expensive.
 
-![circuit-diagram.png](circuit-diagram.png)
+![circuit-diagram.png](/circuit-diagram.png'The control system design')
 
 #### Software
 
@@ -93,4 +93,4 @@ It's probably easiest to just dump the format string here:
 
 And there we go. The pico is scraped on port 5000 and ships metrics (when it's plugged in)
 
-![metrics](./metrics.png)
+![metrics](/metrics.png'A metrics snapshot')

@@ -1,6 +1,6 @@
 ---
 Title: "Bottling"
-pageweight: 4
+weight: 4
 ---
 
 Nothing here yet :)

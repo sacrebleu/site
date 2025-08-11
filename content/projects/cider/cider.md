@@ -38,9 +38,7 @@ home-brewing setup, most of which are detailed below.
 | Yeast                                                           | £1.50      | It is entirely possible to ferment based on natural yeasts present in the fruit, but this can be an exciting process and I'm not brave enough.  Using packaged single-variety yeast should give a more controlled reaction while minimising risk.                                                                                                                                                                |
 
 There is a secondary equipment requirement for bottling the results of the primary fermentation. I will talk through
-bottling [here](./bottling.md)
+bottling [here](bottling)
 
 This is great, and with all of this equipment I can probably make cider. But it will be very manual - so let's automate
 one or two things.
-
-[Part 2 >>](control-system.md)

@@ -40,5 +40,5 @@ home-brewing setup, most of which are detailed below.
 There is a secondary equipment requirement for bottling the results of the primary fermentation. I will talk through
 bottling [here](bottling)
 
-This is great, and with all of this equipment I can probably make cider. But it will be very manual - so let's automate
-one or two things.
+This is great, and with all of this equipment I can probably make cider. But it will be very manual - so let's [automate
+one or two things](control-system).

@@ -1,5 +1,6 @@
 ---
 title: "Rudimentary Control System"
+pageweight: 2
 ---
 
 #### A rudimentary control-system for home brewing
